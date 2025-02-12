@@ -9,6 +9,8 @@ I am a passionate data scientist and software developer with a strong focus on e
   - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
   - **Techniques:** Data Preprocessing, Data Cleaning, Data Visualization, Machine Learning Algorithms
 - **Tools:** Apache Superset (Open-source BI tool)
+- **Mathematics for Machine Learning:**
+  - **Topics:** Linear Algebra, Probability and Statistics, Calculus, Optimization
 - **Current Focus:** Finding important insights from datasets, building data-driven projects, and learning about AI agents
 
 ## 🌱 Currently Learning
@@ -55,3 +57,4 @@ Feel free to connect with me on LinkedIn or follow me on Twitter. I'm always ope
 ---
 
 🌟 Thank you for visiting my profile! 🌟
+``` ▋
